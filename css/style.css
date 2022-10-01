@@ -136,7 +136,7 @@ img{
     background-color:#E5E7EB;
     display: flex;
     flex-direction: column;
-    padding: 100px 500px;
+    padding: 100px 200px;
 
 }
 .section-three .quote{
@@ -200,8 +200,14 @@ img{
     margin-right: 70px;
 }
 .section-four .left{
-    width: auto;
+    width: auto; /*ino bardar bebin chi mishe*/
 }
 
 
 /*    ////////////////////////////////////////         */
+.section-five{
+    background-color:  black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
